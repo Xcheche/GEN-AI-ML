@@ -14,4 +14,3 @@ new_item =[]
 #         print(new_item)
 
 new_item = [x for x in fruits if 'a' in x ]
-print(new_item)
